@@ -1,0 +1,2 @@
+INSERT INTO PROJECT (Pname, Pnumber, Plocation, Dnum)
+VALUES ('ProductuC', '4', 'Houston', '1');
